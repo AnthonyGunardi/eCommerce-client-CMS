@@ -14,10 +14,10 @@ Password: admin123
 ```
 
 #### Link for Customer Client:
-[AnTz Shop - Customer Client](https://github.com/AnthonyGunardi/ecommerce-client-customer)
+[AnTz Shop - Customer Client](https://github.com/AnthonyGunardi/eCommerce-client-customer)
 
 #### Link for Server:
-[AnTz Shop - Server](https://github.com/AnthonyGunardi/ecommerce-server)
+[AnTz Shop - Server](https://github.com/AnthonyGunardi/eCommerce-server)
 
 
 ### Project setup
